@@ -11,14 +11,14 @@ https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=US
 
 
 2. Open Command Prompt
-cd into the directory of your choice where the script is at by copying the path and using the cd command. "cd C:\Users\bengal\Desktop\scripts"
+cd into the directory of your choice where the script is at by copying the path and using the cd command. "cd C:\Users\bengal\Desktop\swampafk-main"
 
-      https://files.catbox.moe/9zmms4.PNG (visual)
+      https://files.catbox.moe/zj0hpb.PNG (visual)
 
 3. Execute the script
 type "python join.py" and press enter
 
-      https://files.catbox.moe/rz8omr.PNG (visual)
+      https://files.catbox.moe/90inty.PNG (visual)
 
 If succesful, your gmod will join the swamp cinema(or rejoin if you are on currently) server in 20-30 seconds the timer will be started and repeat indefinitely every hour.
 
