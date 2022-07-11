@@ -27,6 +27,7 @@ You will inevitably lose some points due to the time discrepancy of the rejoin s
 This can be remedied by the free 10K points you can earn with the swamp.sv title in your name which actually covers a lot of loss.
 
 The math:
+
 300ppm=75ppm AFK
 200ppm=50ppm AFK
 75*60=4,500
