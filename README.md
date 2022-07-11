@@ -1,4 +1,4 @@
-![alt text](ttps://files.catbox.moe/ofpfar.png)
+![alt text](https://files.catbox.moe/ofpfar.png)
 
 
 
