@@ -29,21 +29,33 @@ This can be remedied by the free 10K points you can earn with the swamp.sv title
 The math:
 
 300ppm=75ppm AFK
+
 200ppm=50ppm AFK
+
 75*60=4,500
+
 50*60=3,000
+
 4,500*24=108,000+10,000=~118,000 points per day (24 hours)
+
 4,500*20=90,000+10,000=~100,000 points per day (20 hours)
+
 3,000*24=72,000+10,000=~82,000 points per day (24 hours)
+
 3,000*20=60,000+10,000=~70,000 points per day (20 hours)
 
-Even if we assume 4 hours of loss due to downtime or auto AFK kicks with base 200ppm, It's still 70k per day. You could get the 82k at maximum efficiency
-but is that effort and complication really worth it for such a simple thing? Not really. Now the final tallies of the profit.
-
 118,000*365=43,070,000/12=~3,589,166 points per month at 100% uptime
+
 100,000*365=36,500,000/12=~3,041,666 points per month at 100% uptime
+
 82,000*365=29,930,000/12=~2,494,166 points per month at 100% uptime
+
 70,000*365=25,550,000/12=~2,129,166 points per month at 100% uptime
+
+
+Even if we assume 4 hours of loss due to downtime or auto AFK kicks with base 200ppm, It's still 70k per day. You could get the 82k at maximum efficiency
+but is that effort and complication really worth it for such a simple thing? Not really.
+
 
 
 
