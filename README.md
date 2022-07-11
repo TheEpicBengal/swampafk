@@ -35,7 +35,7 @@ The biggest hurdle to gaining points while AFK is the auto kick while the server
 The server usually gets full and hits peak hours around 9pm-12am CDT. It makes it random and unpredictable.
 
 You will inevitably lose some points due to the time discrepancy of the rejoin script and when you get kicked.
-This can be remedied by the free 10K points you can earn with the swamp.sv title in your name which actually covers a lot of loss.
+This can be remedied by the free 10K points you can earn with the swamp.sv title in your name which actually covers most of the loss at peak hours.
 
 The math:
 
