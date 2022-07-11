@@ -29,8 +29,8 @@ As long as your internet is stable and you have power, you will be connected.
 
 How it works: 
 
-It uses steam://connect/148.59.74.84 with your browser URL. It interfaces with steam if it's running. It's able to run gmod and it joins the server's IP.
-It is on a timer which repeats every 3700 seconds or an hour and a little more(61 minutes). This is the simplest way to always make sure you are connected and AFKing without being too complex.
+It uses steam://connect/148.59.74.84 with your browser URL. It interfaces with steam if it's running. It's able to run gmod and it joins the servers IP.
+It's on a timer which repeats every 3700 seconds or an hour and a little more(61 minutes). This is the simplest way to always make sure you are connected and AFKing without being too complex.
 The biggest hurdle to gaining points while AFK is the auto kick while the server is full, If you're AFK you will be kicked when the server needs more slots. 
 The server usually gets full and hits peak hours around 9pm-12am CDT. It makes it random and unpredictable.
 
