@@ -1,4 +1,4 @@
-# Swamp Cinema Anti AFK v1.0 - The SIMPLEST script to stay connected and AFK.
+# Swamp Cinema Anti AFK - The SIMPLEST script to stay connected and AFK.
 
 1. First make sure python is installed on your computer. You can either go to the windows link or search for it on windows store.
 https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=US
@@ -21,8 +21,11 @@ If succesful, your gmod will join the swamp cinema(or rejoin if you are on curre
 As long as your internet is stable and you have power, you will be connected.
 
 
-How it works:
-It is very simple. It uses steam://connect/148.59.74.84 with your browser URL. It interfaces with steam if it's running. It's able to run gmod and it joins the server's IP.
+
+
+How it works: 
+
+It uses steam://connect/148.59.74.84 with your browser URL. It interfaces with steam if it's running. It's able to run gmod and it joins the server's IP.
 It is on a timer which repeats every 3700 seconds or an hour and a little more(61 minutes). This is the simplest way to always make sure you are connected and AFKing without being too complex.
 The biggest hurdle to gaining points while AFK is the auto kick while the server is full, If you're AFK you will be kicked when the server needs more slots. 
 The server usually gets full and hits peak hours around 9pm-12am CDT. It makes it random and unpredictable.
