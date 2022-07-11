@@ -11,7 +11,7 @@ https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=US
 
 
 2. Open Command Prompt
-cd into the directory of your choice where the script is at by copying the path and using the cd command. "cd C:\Users\bengal\Desktop\swampafk-main"
+cd into the directory of your choice where the script is at by copying the path and using the cd command. Example if it's on the desktop. "cd C:\Users\bengal\Desktop\swampafk-main"
 
       https://files.catbox.moe/zj0hpb.PNG (visual)
 
