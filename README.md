@@ -3,7 +3,6 @@
 
 
 
-# Swamp Cinema Anti AFK - The SIMPLEST script to stay connected and AFK.
 
 1. First make sure python is installed on your computer. You can either go to the windows link or search for it on windows store.
 https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=US
