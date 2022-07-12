@@ -20,7 +20,7 @@ type "python join.py" and press enter
 
       https://files.catbox.moe/90inty.PNG (visual)
 
-If succesful, your gmod will join the swamp cinema server in 20-30 seconds(or rejoin if you are on currently). The timer will be started and repeat indefinitely every hour until the command prompt is closed.
+If succesful the uptime counter will start in the command prompt window. Your gmod will join the swamp cinema server in 20-30 seconds(or rejoin if you are on currently). The timer will be started and repeat indefinitely every hour until the command prompt is closed.
 
 As long as your internet is stable and you have power, you will be connected.
 
